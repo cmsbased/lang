@@ -1,5 +1,7 @@
 <?php 
 $_LANG['warning'] = "Warning!";
+$_LANG['navbarwelcome'] = "Welcome";
+$_LANG['navbarwelcome'] = "Welcome";
 $_LANG['accountcredit'] = "Account Credit";
 $_LANG["answersecurityquestion"] = "Please enter your answer";
 $_LANG['actions'] = "Actions";

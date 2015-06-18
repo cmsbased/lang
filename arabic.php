@@ -1,5 +1,6 @@
 <?php 
 $_LANG['warning'] = "Warning!";
+$_LANG['navbarwelcome'] = "Welcome";
 $_LANG['accountcredit'] = "Account Credit";
 $_LANG["answersecurityquestion"] = "Please enter your answer";
 $_LANG['actions'] = "Actions";
@@ -68,5 +69,5 @@ $_LANG['flowcartdomainconfig'] = "Domain Config";
 $_LANG['flowcartsettings'] = "Settings";
 $_LANG['flowcartpayment'] = "Contact &amp; Payment";
 $_LANG['flowcartentername'] = "Enter the domain name...";
-
+$_LANG['navbarwelcome'] = "Welcome";
 ?>
