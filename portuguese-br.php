@@ -68,5 +68,5 @@ $_LANG['flowcartproduct'] = "Produto";
 $_LANG['flowcartdomainconfig'] = "Configuração de Domínio";
 $_LANG['flowcartsettings'] = "Definições";
 $_LANG['flowcartpayment'] = "Contato &amp; Pagamento";
-
+$_LANG['donthaveanaccount'] = "Don't have an account?";
 ?>

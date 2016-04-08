@@ -60,6 +60,8 @@ $_LANG['flowcartuseexisting'] = "Utiliser l'existant";
 $_LANG['moredomainsavailable'] = "Plus de Noms de Domaine disponibles";
 $_LANG['flowcartyears'] = "Années";
 $_LANG['flowcartyear'] = "Année";
+$_LANG['flowcartoptions'] = "Options";
+
 $_LANG['accountnotifications'] = "Notifications du Compte";
 $_LANG['openserviceissues'] = "Ouvrir une incidence de Service";
 $_LANG['scheduledservice'] = "Service Programmé";
@@ -68,4 +70,5 @@ $_LANG['flowcartdomainconfig'] = "Coniguration du Nom de Domaine";
 $_LANG['flowcartsettings'] = "Réglages";
 $_LANG['flowcartpayment'] = "Contact &amp; Paiement";
 $_LANG['flowcartentername'] = "Entrer le nom de domaine...";
+$_LANG['donthaveanaccount'] = "Don't have an account?";
 ?>
