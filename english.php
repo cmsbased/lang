@@ -1,4 +1,4 @@
-<?php 
+<?php
 $_LANG['warning'] = "Warning!";
 $_LANG['navbarwelcome'] = "Welcome";
 $_LANG['accountcredit'] = "Account Credit";
@@ -48,7 +48,7 @@ $_LANG['opennewticket'] = "New Ticket";
 $_LANG['overview'] = "Overview";
 $_LANG['orderbillingcycle'] = "Billing";
 $_LANG['dashboard'] = "Dashboard";
-$_LANG['dashboardintro'] = "Welcome to your Dashboard area. Here you can manage your web hosting services, domains, view quotes, pay invoices and open support tickets."; 
+$_LANG['dashboardintro'] = "Welcome to your Dashboard area. Here you can manage your web hosting services, domains, view quotes, pay invoices and open support tickets.";
 $_LANG['availcreditbaldesc'] = "You have a credit balance of %s";
 $_LANG["quickserverlogins"] = "Quick Server Logins";
 $_LANG['clientareadiskusage'] = "Disk Space";
@@ -63,6 +63,7 @@ $_LANG['flowcartoptions'] = "Options";
 $_LANG['moredomainsavailable'] = "More domains available";
 $_LANG['flowcartyears'] = "Years";
 $_LANG['flowcartyear'] = "Year";
+$_LANG['flowcartmonth'] = "month";
 $_LANG['flowcartoptions'] = "Options";
 
 $_LANG['accountnotifications'] = "Account Notifications";

@@ -61,6 +61,7 @@ $_LANG['flowcartuseexisting'] = "Use Existing";
 $_LANG['moredomainsavailable'] = "More domains available";
 $_LANG['flowcartyears'] = "Years";
 $_LANG['flowcartyear'] = "Year";
+$_LANG['flowcartmonth'] = "month";
 $_LANG['flowcartoptions'] = "Options";
 
 $_LANG['accountnotifications'] = "Account Notifications";

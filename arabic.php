@@ -1,4 +1,4 @@
-<?php 
+<?php
 $_LANG['warning'] = "تحذير!";
 $_LANG['navbarwelcome'] = "مرحبا بك";
 $_LANG['accountcredit'] = "الرصيد الإئتماني المتاح";
@@ -48,7 +48,7 @@ $_LANG['opennewticket'] = "تذكرة جديدة";
 $_LANG['overview'] = "نظرة عامة";
 $_LANG['orderbillingcycle'] = "الفواتير";
 $_LANG['dashboard'] = "لوحة المعلومات";
-$_LANG['dashboardintro'] = "مرحبا بكم في منطقة لوحة المعلومات الخاصة بك. هنا يمكنك إدارة خدمات الإستضافة ، النطاقات، والفواتير وفتح تذاكر دعم."; 
+$_LANG['dashboardintro'] = "مرحبا بكم في منطقة لوحة المعلومات الخاصة بك. هنا يمكنك إدارة خدمات الإستضافة ، النطاقات، والفواتير وفتح تذاكر دعم.";
 $_LANG['availcreditbaldesc'] = "لديك رصيد إئتماني %s";
 $_LANG["quickserverlogins"] = "عمليات الدخول السريعة للخادم";
 $_LANG['clientareadiskusage'] = "مساحة القرص";
@@ -61,6 +61,7 @@ $_LANG['flowcartuseexisting'] = "استخدام القائمة";
 $_LANG['moredomainsavailable'] = "المزيد من النطاقات المتاحة";
 $_LANG['flowcartyears'] = "سنوات";
 $_LANG['flowcartyear'] = "سنة";
+$_LANG['flowcartmonth'] = "شهر";
 $_LANG['accountnotifications'] = "إشعارات الحساب";
 $_LANG['openserviceissues'] = "مشاكل الخدمة المفتوحة";
 $_LANG['scheduledservice'] = "الخدمة المقررة";

@@ -1,4 +1,4 @@
-<?php 
+<?php
 $_LANG['warning'] = "Atenção!";
 $_LANG['navbarwelcome'] = "Welcome";
 $_LANG['accountcredit'] = "Crédito da conta";
@@ -48,7 +48,7 @@ $_LANG['opennewticket'] = "Novo Ticket";
 $_LANG['overview'] = "Visão Global";
 $_LANG['orderbillingcycle'] = "Faturamento";
 $_LANG['dashboard'] = "Área do Cliente";
-$_LANG['dashboardintro'] = "Bem-vindo à sua Área do Cliente. Aqui você pode verificar seu serviços, domínios, ver cotações de hospedagem, pagar as facturas e tickets de suporte em aberto"; 
+$_LANG['dashboardintro'] = "Bem-vindo à sua Área do Cliente. Aqui você pode verificar seu serviços, domínios, ver cotações de hospedagem, pagar as facturas e tickets de suporte em aberto";
 $_LANG['availcreditbaldesc'] = "Você tem um crédito de %s";
 $_LANG["quickserverlogins"] = "Logn rápido";
 $_LANG['clientareadiskusage'] = "Espaço";
@@ -61,6 +61,7 @@ $_LANG['flowcartuseexisting'] = "Usuário existente";
 $_LANG['moredomainsavailable'] = "Mais domínios disponíveis";
 $_LANG['flowcartyears'] = "Anos";
 $_LANG['flowcartyear'] = "Ano";
+$_LANG['flowcartmonth'] = "mês";
 $_LANG['accountnotifications'] = "Notificações da Conta";
 $_LANG['openserviceissues'] = "Questões em aberto de Serviços";
 $_LANG['scheduledservice'] = "Serviço Programado";

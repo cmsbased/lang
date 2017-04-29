@@ -1,6 +1,6 @@
-<?php 
+<?php
 $_LANG['warning'] = "Внимание!";
-$_LANG['navbarwelcome'] = "Welcome";
+$_LANG['navbarwelcome'] = "Добро Пожаловать";
 $_LANG['accountcredit'] = "Account Credit";
 $_LANG["answersecurityquestion"] = "Please enter your answer";
 $_LANG['actions'] = "Действия";
@@ -11,10 +11,10 @@ $_LANG['continuereading'] = "Continue Reading";
 $_LANG['confirm'] = "Подтвердить";
 $_LANG['close'] = "Закрыть";
 $_LANG['clientareahostingnextduedate'] = "Due";
-$_LANG['clientareasecurityanswer'] = "Your Answer";
-$_LANG['clientareasecurityconfanswer'] = "Confirm Answer";
+$_LANG['clientareasecurityanswer'] = "Ваш Ответ";
+$_LANG['clientareasecurityconfanswer'] = "Подтвердите Ответ";
 $_LANG['clientareasecurityquestion'] = "Security Question";
-$_LANG['disable'] = "Disable";
+$_LANG['disable'] = "Отключить";
 $_LANG['domainlookupresults'] = "Domain Lookup Results";
 $_LANG['lastlogin'] = "Last Login";
 $_LANG['manageproduct'] = "Manage Service";
@@ -47,8 +47,8 @@ $_LANG['statscreditbalance'] = "Credit Balance";
 $_LANG['opennewticket'] = "New Ticket";
 $_LANG['overview'] = "Обзор";
 $_LANG['orderbillingcycle'] = "Billing";
-$_LANG['dashboard'] = "Dashboard";
-$_LANG['dashboardintro'] = "Welcome to your Dashboard area. Here you can manage your web hosting services, domains, view quotes, pay invoices and open support tickets."; 
+$_LANG['dashboard'] = "Панель";
+$_LANG['dashboardintro'] = "Welcome to your Dashboard area. Here you can manage your web hosting services, domains, view quotes, pay invoices and open support tickets.";
 $_LANG['availcreditbaldesc'] = "You have a credit balance of %s";
 $_LANG["quickserverlogins"] = "Быстрый Доступ";
 $_LANG['clientareadiskusage'] = "Диск";
@@ -59,9 +59,10 @@ $_LANG['flowcartprevstep'] = "Предыдущий Шаг";
 $_LANG['flowcartempty'] = "Ваша корзина пуста.";
 $_LANG['flowcartuseexisting'] = "Use Existing";
 $_LANG['moredomainsavailable'] = "More domains available";
-$_LANG['flowcartyears'] = "Years";
-$_LANG['flowcartyear'] = "Year";
-$_LANG['flowcartoptions'] = "Options";
+$_LANG['flowcartyears'] = "Лет";
+$_LANG['flowcartyear'] = "Год";
+$_LANG['flowcartmonth'] = "месяц";
+$_LANG['flowcartoptions'] = "Опции";
 
 $_LANG['accountnotifications'] = "Account Notifications";
 $_LANG['openserviceissues'] = "Open Service Issues";
@@ -70,6 +71,6 @@ $_LANG['flowcartproduct'] = "Продукт";
 $_LANG['flowcartdomainconfig'] = "Domain Config";
 $_LANG['flowcartsettings'] = "Настройки";
 $_LANG['flowcartpayment'] = "Contact &amp; Payment";
-$_LANG['flowcartentername'] = "Enter the domain name...";
-$_LANG['donthaveanaccount'] = "Don't have an account?";
+$_LANG['flowcartentername'] = "Введите доменное имя...";
+$_LANG['donthaveanaccount'] = "Создать Учетную Запись";
 ?>

@@ -1,4 +1,4 @@
-<?php 
+<?php
 $_LANG['warning'] = "Warnung!";
 $_LANG['navbarwelcome'] = "Hallo";
 $_LANG['accountcredit'] = "Konto Kredit";
@@ -48,7 +48,7 @@ $_LANG['opennewticket'] = "Neues Ticket";
 $_LANG['overview'] = "&uuml;bersicht";
 $_LANG['orderbillingcycle'] = "Abrechnung";
 $_LANG['dashboard'] = "Dashboard";
-$_LANG['dashboardintro'] = "Willkommen im Dashboard. Hier kannst du deine Webpakete und Domains verwalten, Rechnungen einsehen oder bezahlen, oder dich an unseren Support wenden."; 
+$_LANG['dashboardintro'] = "Willkommen im Dashboard. Hier kannst du deine Webpakete und Domains verwalten, Rechnungen einsehen oder bezahlen, oder dich an unseren Support wenden.";
 $_LANG['availcreditbaldesc'] = "Du hast ein Guthaben von %s";
 $_LANG["quickserverlogins"] = "Quick-Server-Login";
 $_LANG['clientareadiskusage'] = "Speicherplatz";
@@ -61,6 +61,7 @@ $_LANG['flowcartuseexisting'] = "Vorhanden Domain nutzen";
 $_LANG['moredomainsavailable'] = "mehr Domains verf&uuml;gbar";
 $_LANG['flowcartyears'] = "Jahre";
 $_LANG['flowcartyear'] = "Jahr";
+$_LANG['flowcartmonth'] = "monat";
 $_LANG['flowcartoptions'] = "Optionen";
 
 $_LANG['accountnotifications'] = "Account Benachrichtigungen";

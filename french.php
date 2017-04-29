@@ -1,4 +1,4 @@
-<?php 
+<?php
 $_LANG['warning'] = "Attention!";
 $_LANG['accountcredit'] = "Crédit disponible";
 $_LANG["answersecurityquestion"] = "Veuillez entrer votre réponse";
@@ -47,7 +47,7 @@ $_LANG['opennewticket'] = "Nouveau Ticket";
 $_LANG['overview'] = "Vue d'ensemble";
 $_LANG['orderbillingcycle'] = "Facturation";
 $_LANG['dashboard'] = "Tableau de Bord";
-$_LANG['dashboardintro'] = "Bienvenue dans votre tableau de bord de votre czone client. Depuis cette zone vous pouvez gérer votre hébergement, services, noms de domaine, factures, devis et également gérer votre support ticket."; 
+$_LANG['dashboardintro'] = "Bienvenue dans votre tableau de bord de votre czone client. Depuis cette zone vous pouvez gérer votre hébergement, services, noms de domaine, factures, devis et également gérer votre support ticket.";
 $_LANG['availcreditbaldesc'] = "Vous disposez d'un crédit d'un montant de %s";
 $_LANG["quickserverlogins"] = "Connexion Rapide Serveur";
 $_LANG['clientareadiskusage'] = "Espace Disque";
@@ -60,6 +60,7 @@ $_LANG['flowcartuseexisting'] = "Utiliser l'existant";
 $_LANG['moredomainsavailable'] = "Plus de Noms de Domaine disponibles";
 $_LANG['flowcartyears'] = "Années";
 $_LANG['flowcartyear'] = "Année";
+$_LANG['flowcartmonth'] = "mois";
 $_LANG['flowcartoptions'] = "Options";
 
 $_LANG['accountnotifications'] = "Notifications du Compte";
