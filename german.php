@@ -72,5 +72,5 @@ $_LANG['flowcartdomainconfig'] = "Domainkonfiguration";
 $_LANG['flowcartsettings'] = "Einstellungen";
 $_LANG['flowcartpayment'] = "Adresse & Zahlungsdaten";
 $_LANG['flowcartentername'] = "Domainnamen eingeben...";
-
+$_LANG['signinwith'] = "Sign in with";
 ?>

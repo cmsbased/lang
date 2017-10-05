@@ -73,4 +73,5 @@ $_LANG['flowcartpayment'] = "تماس و پرداخت";
 $_LANG['flowcartentername'] = "نام دامین را وارد کنید...";
 
 $_LANG['donthaveanaccount'] = "حساب کاربری ندارید ؟";
+$_LANG['signinwith'] = "Sign in with";
 ?>

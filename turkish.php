@@ -1,4 +1,4 @@
-<?php 
+<?php
 $_LANG['warning'] = "Uyarı!";
 $_LANG['navbarwelcome'] = "Hoşgeldiniz";
 $_LANG['accountcredit'] = "Hesap Kredisi";
@@ -48,7 +48,7 @@ $_LANG['opennewticket'] = "Yeni Bildirim";
 $_LANG['overview'] = "Genel Bakış";
 $_LANG['orderbillingcycle'] = "Faturalandırma";
 $_LANG['dashboard'] = "Kontrol Paneli";
-$_LANG['dashboardintro'] = "Kontrol Paneline hoş geldiniz. Burada, web barındırma hizmetlerinizi, etki alanlarınızı, tekliflerinizi görüntüleyebilir, faturaları ödeyebilir ve destek bildirimlerinizi yönetebilirsiniz."; 
+$_LANG['dashboardintro'] = "Kontrol Paneline hoş geldiniz. Burada, web barındırma hizmetlerinizi, etki alanlarınızı, tekliflerinizi görüntüleyebilir, faturaları ödeyebilir ve destek bildirimlerinizi yönetebilirsiniz.";
 $_LANG['availcreditbaldesc'] = "%s kadar kredi miktarınız var.";
 $_LANG["quickserverlogins"] = "Hızlı Sunucu Girişi";
 $_LANG['clientareadiskusage'] = "Disk Alanı";
@@ -73,4 +73,5 @@ $_LANG['flowcartsettings'] = "Ayarlar";
 $_LANG['flowcartpayment'] = "İletişim &amp; Ödeme";
 $_LANG['flowcartentername'] = "Alan adınızı giriniz...";
 $_LANG['donthaveanaccount'] = "Hesabınız yok mu?";
+$_LANG['signinwith'] = "Sign in with";
 ?>

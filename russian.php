@@ -73,4 +73,5 @@ $_LANG['flowcartsettings'] = "Настройки";
 $_LANG['flowcartpayment'] = "Contact &amp; Payment";
 $_LANG['flowcartentername'] = "Введите доменное имя...";
 $_LANG['donthaveanaccount'] = "Создать Учетную Запись";
+$_LANG['signinwith'] = "Войти через ";
 ?>

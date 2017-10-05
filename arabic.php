@@ -71,4 +71,5 @@ $_LANG['flowcartsettings'] = "الإعدادات";
 $_LANG['flowcartpayment'] = "الاتصال &amp; الدفع";
 $_LANG['flowcartentername'] = "أدخل اسم النطاق ...";
 $_LANG['navbarwelcome'] = "مرحبا";
+$_LANG['signinwith'] = "Sign in with";
 ?>

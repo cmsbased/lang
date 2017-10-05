@@ -72,4 +72,5 @@ $_LANG['flowcartsettings'] = "Settings";
 $_LANG['flowcartpayment'] = "Contact &amp; Payment";
 $_LANG['flowcartentername'] = "Enter the domain name...";
 $_LANG['donthaveanaccount'] = "Don't have an account?";
+$_LANG['signinwith'] = "Sign in with";
 ?>

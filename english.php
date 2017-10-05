@@ -79,4 +79,7 @@ $_LANG['cartexistingcustomer'] = "Existing User";
 $_LANG['ticketratingquestion'] = "Rate this Reply:";
 $_LANG['ticketreatinggiven'] = "You Rated:";
 $_LANG['donthaveanaccount'] = "Don't have an account?";
+$_LANG['signinwith'] = "Sign in with";
+$_LANG['signinwith'] = "Sign in with";
+
 ?>
