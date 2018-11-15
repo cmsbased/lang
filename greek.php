@@ -2,7 +2,7 @@
 $_LANG['warning'] = "Προσοχή!";
 $_LANG['navbarwelcome'] = "Καλωσήρθατε";
 $_LANG['accountcredit'] = "Πίστωση";
-$_LANG["answersecurityquestion"] = "Παρακαλώ πληκτρολογήστε την απάντησή σας";
+$_LANG['answersecurityquestion'] = "Παρακαλώ πληκτρολογήστε την απάντησή σας";
 $_LANG['actions'] = "Ενέργειες";
 $_LANG['affiliatesreferals'] = "Οι παραπομπές σας";
 $_LANG['captchaverify'] = "Παρακαλώ πληκτρολογήστε τους χαρακτήρες που βλέπετε στην εικόνα από κάτω μέσα στο κουτί.";
@@ -50,7 +50,7 @@ $_LANG['orderbillingcycle'] = "Τιμολόγηση";
 $_LANG['dashboard'] = "Πίνακας ελέγχου";
 $_LANG['dashboardintro'] = "Καλώς ήρθατε στην περιοχή του πίνακα ελέγχου. Εδώ μπορείτε να διαχειριστείτε τις υπηρεσίες φιλοξενίας ιστοσελίδων, τα Domain, τις προσφορές, να πληρώσετε τιμολόγια και να ανοίξετε αιτήματα υποστήριξης."; 
 $_LANG['availcreditbaldesc'] = "Έχετε πιστωτικό υπόλοιπο %s";
-$_LANG["quickserverlogins"] = "One-Click Login";
+$_LANG['quickserverlogins'] = "One-Click Login";
 $_LANG['clientareadiskusage'] = "Χώρος στο δισκο";
 $_LANG['clientareabwusage'] = "Bandwidth";
 $_LANG['domainadd'] = "Προσθήκη Domain";
