@@ -5,6 +5,7 @@ $_LANG['accountcredit'] = "الرصيد الإئتماني المتاح";
 $_LANG["answersecurityquestion"] = "الرجاء إدخال إجابتك";
 $_LANG['actions'] = "الإجراءات";
 $_LANG['affiliatesreferals'] = "الدعوات من قبلك";
+$_LANG['affiliatesminimum'] = "Payout Minimum";
 $_LANG['captchaverify'] = "الرجاء إدخال الحروف التي تراها في الصورة أدناه في مربع النص.";
 $_LANG['continue'] = "استمر";
 $_LANG['continuereading'] = "مواصلة القراءة";

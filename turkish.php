@@ -5,6 +5,7 @@ $_LANG['accountcredit'] = "Hesap Kredisi";
 $_LANG["answersecurityquestion"] = "Lütfen cevabınızı giriniz";
 $_LANG['actions'] = "İşlemler";
 $_LANG['affiliatesreferals'] = "Yönlendirdikleriniz";
+$_LANG['affiliatesminimum'] = "Payout Minimum";
 $_LANG['captchaverify'] = "Lütfen aşağıdaki resimde görünen karakterleri giriniz.";
 $_LANG['continue'] = "Devam et";
 $_LANG['continuereading'] = "Okumaya devam et";

@@ -5,6 +5,7 @@ $_LANG['accountcredit'] = "Crédito de la cuenta";
 $_LANG["answersecurityquestion"] = "Por favor ingresa tu respuesta";
 $_LANG['actions'] = "Acciones";
 $_LANG['affiliatesreferals'] = "Tus referidos";
+$_LANG['affiliatesminimum'] = "Payout Minimum";
 $_LANG['captchaverify'] = "Por favor ingresa el texto que ves en la imagen que esta debajo de la caja de texto.";
 $_LANG['continue'] = "Continuar";
 $_LANG['continuereading'] = "Continuar Leyendo";

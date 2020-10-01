@@ -5,6 +5,7 @@ $_LANG['accountcredit'] = "帳戶餘額";
 $_LANG["answersecurityquestion"] = "請輸入您的答案";
 $_LANG['actions'] = "操作";
 $_LANG['affiliatesreferals'] = "您的推薦";
+$_LANG['affiliatesminimum'] = "Payout Minimum";
 $_LANG['captchaverify'] = "請在提供的文本框中輸入下圖中顯示的字符。";
 $_LANG['continue'] = "繼續";
 $_LANG['continuereading'] = "繼續閱讀";

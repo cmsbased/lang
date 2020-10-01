@@ -5,6 +5,7 @@ $_LANG['accountcredit'] = "اعتبار حساب";
 $_LANG["answersecurityquestion"] = "لطفا پاسخ خودتان را وارد نمایید";
 $_LANG['actions'] = "عملیات";
 $_LANG['affiliatesreferals'] = "معرف های شما";
+$_LANG['affiliatesminimum'] = "Payout Minimum";
 $_LANG['captchaverify'] = "لطفا کاراکترهای داخل تصویر را در کادر زیر وارد نمایید.";
 $_LANG['continue'] = "ادامه";
 $_LANG['continuereading'] = "ادامه مطلب";

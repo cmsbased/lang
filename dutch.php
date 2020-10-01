@@ -5,6 +5,7 @@ $_LANG['accountcredit'] = "Balans";
 $_LANG["answersecurityquestion"] = "Uw antwoord";
 $_LANG['actions'] = "Acties";
 $_LANG['affiliatesreferals'] = "Uw Referrals";
+$_LANG['affiliatesminimum'] = "Payout Minimum";
 $_LANG['captchaverify'] = "Vul de karakters die u ziet in de afbeelding in het onderstaande tekstveld.";
 $_LANG['continue'] = "Doorgaan";
 $_LANG['continuereading'] = "Verder lezen";
